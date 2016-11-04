@@ -44,4 +44,6 @@ void enlever_bleu(SDL_Surface *image);
 /* Affiche un tokken aux coordonnées demandées */
 void tokken_position (SDL_Surface * surface, double x, double y);
 
+void Conversion_Coor_Pixel (logeux* logeux);
+
 #endif
