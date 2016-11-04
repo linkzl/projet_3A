@@ -1,0 +1,5 @@
+#ifndef AFFICHAGE_STATIQUE_H
+#define AFFICHAGE_STATIQUE_H 
+
+
+#endif
