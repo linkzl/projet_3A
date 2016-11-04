@@ -1,0 +1,5 @@
+#ifndef AFFICHAGE_DYNAMIQUE_H
+#define AFFICHAGE_DYNAMIQUE_H 
+
+
+#endif
